@@ -1,0 +1,13 @@
+version: 1
+project:
+  id: pi-csound-guide
+  title: Sound Installations with Raspberry Pi and Csound
+  description: Building an autonomous multichannel sound installation with Csound
+  authors:
+    - name: Sem
+  toc:
+    - file: index.md
+site:
+  template: book-theme
+  options:
+    logo_text: Pi + Csound
